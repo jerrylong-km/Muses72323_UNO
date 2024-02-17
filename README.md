@@ -1,2 +1,2 @@
-# Muses72323_ESP32
-通过ESP32控制电子音量芯片Muses72323
+# Muses72323_UNO
+通过Arduino UNO控制电子音量芯片Muses72323
